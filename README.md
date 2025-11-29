@@ -123,17 +123,8 @@
   
 <a href="https://github.com/Olan-G/Echo">
   <!-- Replace with a real screenshot later -->
-  <img src="https://via.placeholder.com/450x200/0d1117/ffffff?text=Echo+Preview+Coming+Soon" width="450"/>
-</a>
+  <img src="https://placehold.co/450x200/000000/00E7FF?text=Echo+Preview+Coming+Soon&font=Montserrat&overlay_color=00E7FF&overlay_opacity=15" width="450" />
 
----
-
-### 🔹 bAInc — Personal Wealth Assistant (FinTech)
-> Ethical, explainable AI aligned with the EU AI Act  
-> *Python • BIAN Framework • Responsible AI*
-
-<a href="https://github.com/Olan-G">
-  <img src="https://via.placeholder.com/450x200/0d1117/ffffff?text=bAInc+Preview+Coming+Soon" width="450"/>
 </a>
 
 ---
