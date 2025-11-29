@@ -1,102 +1,3 @@
-<!-- Banner / Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Olan</span>!</h1>
-<h3 align="center">Business Information Systems Student • Software Development</h3>
-
----
-
-### 🚀 About Me
-
-- 🎓 Final-year **Business Information Systems** student @ University College Cork  
-- 💻 Passion for **backend engineering**, **data systems**, and **automation**
-- 🧠 Currently building **Echo** — an intelligent IT ticketing system with adaptive forms + ML recommendations
-- 🏙️ Career goal → **Graduate Software Engineer** focused on scalable systems  
-- 📈 Long-term goal → Become a **Tech Founder** / Millionaire by 30 😄
-
----
-- 🌟 Proficient: Python, FastAPI, SQL, Git, Linux
-- 🚀 Working knowledge: Tailwind, Flask, JS, Docker basics
-- 🧪 Learning: Async microservices, vector search, CI/CD
-
-### 🧰 Tech Stack & Tools
-
-#### 💻 Languages & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
-
-#### 🧱 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,tailwind,flask" />
-</p>
-
-#### 🗄️ Databases & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,SQL" />
-</p>
-
-#### 🛠️ Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
-</p>
-
-#### 🧱 Computer Aided Design
-<p>
-  <img src="https://skillicons.dev/icons?i=blender" />
-</p>
-
----
-
-### 🔥 Projects & Highlights
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Echo** | IT ticket management system with adaptive forms + AI suggestions | FastAPI • Tailwind • Jinja2 • PostgreSQL |
-| **bAInc** | FinTech wealth assistant concept for banks, EU AI Act compliant | BIAN • AI-Driven UX |
-| **UCC Data Value Mapping** | Applied data value chain across real business processes | Analysis • Data Architecture |
-
-➡️ More to come! 👀
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Olan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=dark)
-
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olangriffin&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=olangriffin&theme=tokyonight&hide_border=true)
-
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olangriffin&theme=tokyonight)
-
-</div>
-
----
-
-### 🌱 What I’m learning now
-
-- Deeper **Python engineering**: testing, architecture, async patterns
-- Advanced **SQL** and **vector search**
-- Shipping real SaaS products
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/olangriffin">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:olangriffin@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=2000&pause=100&color=00E7FF&background=00000000&center=true&vCenter=true&width=950&height=60&lines=Olan+Griffin;Software+Engineering+%7C+Data+Architecture;FastAPI+%7C+PostgreSQL+%7C+Vector+Search;Performance%2C+Scalability+%26+Reliability" />
@@ -123,7 +24,7 @@
   
 <a href="https://github.com/Olan-G/Echo">
   <!-- Replace with a real screenshot later -->
-  <img src="https://placehold.co/450x200/000000/00E7FF?text=Echo+Preview+Coming+Soon&font=Montserrat&overlay_color=00E7FF&overlay_opacity=15" width="450" />
+  <img src="https://placehold.co/450x200/0d1117/00E7FF?text=Echo%20%E2%80%94%20AI%20Ticketing%20System&font=Fira%20Code" width="450" />
 
 </a>
 
