@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 -->
 ✨ MasterAffan | Full Stack Developer & Innovator ✨
 💫 About Me:
-👨‍💻 Undergraduate in Computer Science Engineering
+👨‍💻 Final Year Business Information Systems Student
 💡 Passionate about Application Development & Web Development
-🤖 Building AI Models and turning them into functional apps!
-🌟 Always learning, coding, and creating something awesome!
 
-✍️ Random Dev Quote
+🚀 Proficiencies
 
-
-🚀 Languages and Tools I Use
-c cplusplus python dart android flutter seaborn opencv postgresql firebase docker linux git
+<img src="https://play-lh.googleusercontent.com/gjX-aBU0iIAmfJqUWg8rWifLPDWNwRe0aIj46216Bq0cpKnEm6nC3pG7-3uh56wd5AE" width="50" height="50">
 
 ✒️ Recent Posts
 NASA Space Apps 2024 | 4th position
