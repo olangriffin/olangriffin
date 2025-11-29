@@ -35,6 +35,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
 </p>
+
 #### 🧱 Computer Aided Design
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
