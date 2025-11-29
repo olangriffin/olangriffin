@@ -28,7 +28,7 @@
 
 #### 🗄️ Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,sql" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,SQL" />
 </p>
 
 #### 🛠️ Tools & Workflow
