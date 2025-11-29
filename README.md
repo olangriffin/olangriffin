@@ -40,6 +40,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
+
 ---
 
 ### 🔥 Projects & Highlights
