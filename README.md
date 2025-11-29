@@ -33,7 +33,7 @@
 
 #### 🛠️ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm,cmd" />
 </p>
 
 #### 🧱 Computer Aided Design
