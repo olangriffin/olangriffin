@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ MasterAffan | Full Stack Developer & Innovator ✨
+💫 About Me:
+👨‍💻 Undergraduate in Computer Science Engineering
+💡 Passionate about Application Development & Web Development
+🤖 Building AI Models and turning them into functional apps!
+🌟 Always learning, coding, and creating something awesome!
+
+✍️ Random Dev Quote
+
+
+🚀 Languages and Tools I Use
+c cplusplus python dart android flutter seaborn opencv postgresql firebase docker linux git
+
+✒️ Recent Posts
+NASA Space Apps 2024 | 4th position
+⚡️ Where to find me
+linkedin
+
+github-snake
