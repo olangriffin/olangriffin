@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Olan</span>!</h1>
-<h3 align="center">Business Information Systems Student • Aspiring Software Developer • Builder of Cool Things</h3>
+<h3 align="center">Business Information Systems Student • Software Development</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 
 #### 💻 Languages & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 #### 🧱 Frameworks & Libraries
@@ -28,7 +28,7 @@
 
 #### 🗄️ Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite.sql" />
 </p>
 
 #### 🛠️ Tools & Workflow
@@ -73,15 +73,14 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/olan-griffin">
+  <a href="https://www.linkedin.com/in/olangriffin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:olan@example.com">
+  <a href="mailto:olangriffin@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-> 🚀 “Be the one who builds — because builders shape the future.”
 
