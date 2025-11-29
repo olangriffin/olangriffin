@@ -1,31 +1,87 @@
-## Hi there 👋
+<!-- Banner / Header -->
+<h1 align="center">👋 Hey, I'm <span style="color:#4F46E5;">Olan</span>!</h1>
+<h3 align="center">Business Information Systems Student • Aspiring Software Developer • Builder of Cool Things</h3>
 
-<!--
-**olangriffin/olangriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-✨ MasterAffan | Full Stack Developer & Innovator ✨
-💫 About Me:
-👨‍💻 Final Year Business Information Systems Student
-💡 Passionate about Application Development & Web Development
+- 🎓 Final-year **Business Information Systems** student @ University College Cork  
+- 💻 Passion for **backend engineering**, **data systems**, and **automation**
+- 🧠 Currently building **Echo** — an intelligent IT ticketing system with adaptive forms + ML recommendations
+- 🏙️ Career goal → **Graduate Software Engineer** focused on scalable systems  
+- 📈 Long-term goal → Become a **Tech Founder** / Millionaire by 30 😄
 
-🚀 Proficiencies
+---
 
-<img src="https://play-lh.googleusercontent.com/gjX-aBU0iIAmfJqUWg8rWifLPDWNwRe0aIj46216Bq0cpKnEm6nC3pG7-3uh56wd5AE" width="50" height="50">
+### 🧰 Tech Stack & Tools
 
-✒️ Recent Posts
-NASA Space Apps 2024 | 4th position
-⚡️ Where to find me
-linkedin
+#### 💻 Languages & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,java" />
+</p>
 
-github-snake
+#### 🧱 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,flask" />
+</p>
+
+#### 🗄️ Databases & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,docker" />
+</p>
+
+#### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+### 🔥 Projects & Highlights
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Echo** | IT ticket management system with adaptive forms + AI suggestions | FastAPI • Tailwind • Jinja2 • PostgreSQL |
+| **bAInc** | FinTech wealth assistant concept for banks, EU AI Act compliant | BIAN • AI-Driven UX |
+| **UCC Data Value Mapping** | Applied data value chain across real business processes | Analysis • Data Architecture |
+
+➡️ More to come… a lot more 👀
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olan&layout=compact&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
+### 🌱 What I’m learning now
+
+- Deeper **Python engineering**: testing, architecture, async patterns
+- Advanced **SQL** and **vector search**
+- Shipping real SaaS products
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/olan-griffin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:olan@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+> 🚀 “Be the one who builds — because builders shape the future.”
+
