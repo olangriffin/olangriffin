@@ -22,7 +22,7 @@
 > Adaptive ticket forms + ML-driven resolution suggestions  
 > *FastAPI • PostgreSQL • HTMX • pgvector*
   
-<a href="https://github.com/Olan-G/Echo">
+<a href="https://github.com/olangriffin/Echo">
   <!-- Replace with a real screenshot later -->
   <img src="https://placehold.co/450x200/0d1117/00E7FF?text=Echo%20%E2%80%94%20AI%20Ticketing%20System&font=Fira%20Code" width="450" />
 
