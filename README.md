@@ -23,7 +23,7 @@
 
 #### 🧱 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,flask" />
+  <img src="https://skillicons.dev/icons?i=fastapi,tailwind,flask" />
 </p>
 
 #### 🗄️ Databases & Infrastructure
@@ -33,7 +33,7 @@
 
 #### 🛠️ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
 </p>
 
 ---
