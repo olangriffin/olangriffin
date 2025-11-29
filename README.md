@@ -60,6 +60,8 @@
 <div align="center">
   
 ![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Olan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=dark)
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olangriffin&layout=compact&theme=tokyonight&hide_border=true)
   
