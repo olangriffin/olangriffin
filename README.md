@@ -99,8 +99,9 @@
 
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=600&lines=Olan+Griffin;Backend+Engineering+%7C+Data+Systems+%7C+Automation;Building++AI-Driven+Systems+with+Python+%26+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?duration=2000&pause=100&color=00E7FF&background=00000000&center=true&vCenter=true&width=950&height=60&lines=Olan+Griffin;Software+Engineering+%7C+Data+Architecture;FastAPI+%7C+PostgreSQL+%7C+Vector+Search;Performance%2C+Scalability+%26+Reliability" />
 </p>
+
 
 ---
 
