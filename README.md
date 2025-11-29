@@ -61,6 +61,7 @@
 <!-- Reliable, dark-mode-compatible stats -->
 <img src="https://streak-stats.demolab.com?user=olangriffin&theme=tokyonight&hide_border=true" height="170">
 
+![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olangriffin&theme=tokyonight" height="170" />
 
 </p>
