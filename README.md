@@ -28,7 +28,7 @@
 
 #### 🗄️ Databases & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite.sql" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,sql" />
 </p>
 
 #### 🛠️ Tools & Workflow
@@ -54,9 +54,9 @@
 
 <div align="center">
   
-![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Olan's GitHub stats](https://github-readme-stats.vercel.app/api?username=olangriffin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olangriffin&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
