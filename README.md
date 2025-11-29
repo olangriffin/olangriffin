@@ -64,7 +64,11 @@
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olangriffin&layout=compact&theme=tokyonight&hide_border=true)
-  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=olangriffin&theme=tokyonight&hide_border=true)
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olangriffin&theme=tokyonight)
+
 </div>
 
 ---
