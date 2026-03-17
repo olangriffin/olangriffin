@@ -95,17 +95,19 @@ ambition:  Tech founder. Global scale. Real impact.
 
 <div align="center">
 
-**💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
 
 **⚙️ Frameworks**
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,tailwind" />
 
-**🗄️ Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
 **🛠️ Tools**
 
