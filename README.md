@@ -84,7 +84,7 @@ ambition:  Tech founder. Global scale. Real impact.
 </p>
 
 <a href="https://github.com/olangriffin/Echo">
-  <img src="https://placehold.co/750x220/0d1117/00E7FF?text=Echo+%E2%80%94+Drop+your+screenshot+here&font=Fira+Code" width="750"/>
+  <img src="https://placehold.co/900x220/0d1117/00E7FF?text=Echo+%E2%80%94+Drop+your+screenshot+here&font=Fira+Code" width="100%"/>
 </a>
 
 </td>
@@ -129,16 +129,25 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <h2 align="center">🧰 &nbsp;Tech Stack</h2>
 
-<p align="center">
+<div align="center">
 
-| Category | Technologies |
-|:---:|:---:|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,html,css" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=fastapi,flask,tailwind" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" /> |
+**💻 Languages**
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+
+**⚙️ Frameworks**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,tailwind" />
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+
+**🛠️ Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,pycharm" />
+
+</div>
 
 <br/>
 
@@ -167,7 +176,7 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=olangriffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=olangriffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
 </p>
 
 <br/>
