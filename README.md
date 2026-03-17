@@ -75,7 +75,7 @@ ambition:  Tech founder. Global scale. Real impact.
 </p>
 
 <a href="https://gechosupport.duckdns.org">
-  <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="150%"/>
+  <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="15%"/>
 </a>
 
 </div>
