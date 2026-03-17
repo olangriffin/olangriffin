@@ -1,7 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003344,100:00E7FF&height=200&section=header&text=Olan%20Griffin&fontSize=72&fontColor=00E7FF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" />
 
 <p align="center">
@@ -21,9 +17,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <table align="center" width="95%">
 <tr>
@@ -36,7 +29,7 @@ name:      Olan Griffin
 location:  Cork, Ireland 🇮🇪
 role:      Backend Engineer & Founder
 studying:  Business Information Systems @ UCC
-building:  Echo — Intelligent IT Ticketing
+building:  Echo - Intelligent IT Ticketing
 
 focus:
   - Scalable Python backends (FastAPI)
@@ -58,9 +51,6 @@ ambition:  Tech founder. Global scale. Real impact.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECT                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -84,7 +74,7 @@ ambition:  Tech founder. Global scale. Real impact.
 </p>
 
 <a href="https://github.com/olangriffin/Echo">
-  <img src="https://placehold.co/900x220/0d1117/00E7FF?text=Echo+%E2%80%94+Drop+your+screenshot+here&font=Fira+Code" width="100%"/>
+  <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="100%"/>
 </a>
 
 </td>
@@ -151,9 +141,6 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -171,9 +158,6 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=olangriffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
@@ -181,9 +165,6 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -204,9 +185,5 @@ $ olan --status
 </p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:003344,100:0d1117&height=120&section=footer&text=%22If+it+scales+and+solves+a+real+problem+%E2%80%94+build+it.%22&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
