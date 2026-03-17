@@ -81,8 +81,8 @@ ambition:  Tech founder. Global scale. Real impact.
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"/>
 </p>
 
-<a href="https://github.com/olangriffin/Echo">
-  <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="100%"/>
+<a href="https://gechosupport.duckdns.org">
+  <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="50%"/>
 </a>
 
 </div>
