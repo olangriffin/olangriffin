@@ -164,4 +164,4 @@ $ olan --status
 <br/>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:003344,100:0d1117&height=120&section=footer&text=%22If+it+scales+and+solves+a+real+problem+%E2%80%94+build+it.%22&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:003344,100:0d1117&height=120&section=footer&text=%22If+it+scales+and+solves+a+real+problem+-+build+it.%22&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
