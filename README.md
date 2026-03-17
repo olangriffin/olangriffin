@@ -1,3 +1,7 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003344,100:00E7FF&height=200&section=header&text=Olan%20Griffin&fontSize=72&fontColor=00E7FF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" />
 
 <p align="center">
@@ -17,6 +21,9 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <table align="center" width="95%">
 <tr>
@@ -29,7 +36,7 @@ name:      Olan Griffin
 location:  Cork, Ireland 🇮🇪
 role:      Backend Engineer & Founder
 studying:  Business Information Systems @ UCC
-building:  Echo - Intelligent IT Ticketing
+building:  Echo — Intelligent IT Ticketing
 
 focus:
   - Scalable Python backends (FastAPI)
@@ -51,6 +58,9 @@ ambition:  Tech founder. Global scale. Real impact.
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FEATURED PROJECT                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -58,9 +68,7 @@ ambition:  Tech founder. Global scale. Real impact.
 
 <br/>
 
-<table align="center" width="95%">
-<tr>
-<td align="center" width="100%">
+<div align="center">
 
 ### 🔹 Echo — Intelligent IT Ticketing System
 
@@ -77,37 +85,13 @@ ambition:  Tech founder. Global scale. Real impact.
   <img src="https://echosupport.duckdns.org/static/icons/favicon.ico" width="100%"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td>
+</div>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+<br/>
 
-**🧠 The Problem**
-Static IT ticket forms waste time. Engineers answer irrelevant questions. Repeat issues get solved from scratch every time.
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ The Solution**
-Adaptive forms that evolve based on issue type. pgvector similarity search surfaces matching historical tickets instantly.
-
-</td>
-<td width="33%" valign="top">
-
-**📈 The Goal**
-Ship MVP → onboard first users → prove the model → scale. Built as a thesis project *and* a real product.
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+| 🧠 The Problem | ⚙️ The Solution | 📈 The Goal |
+|:---|:---|:---|
+| Static IT ticket forms waste time. Engineers answer irrelevant questions. Repeat issues get solved from scratch every time. | Adaptive forms that evolve based on issue type. pgvector similarity search surfaces matching historical tickets instantly. | Ship MVP → onboard first users → prove the model → scale. Built as a thesis project *and* a real product. |
 
 <br/>
 
@@ -141,6 +125,9 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -158,6 +145,9 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TROPHIES                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=olangriffin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
@@ -165,6 +155,9 @@ Ship MVP → onboard first users → prove the model → scale. Built as a thesi
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    CURRENTLY                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a22&height=3"/>
 
@@ -185,5 +178,9 @@ $ olan --status
 </p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:003344,100:0d1117&height=120&section=footer&text=%22If+it+scales+and+solves+a+real+problem+%E2%80%94+build+it.%22&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
