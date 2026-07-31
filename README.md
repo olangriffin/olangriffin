@@ -72,9 +72,17 @@ Design Workforce Planner
 Capacity-planning tool that converts project workload into monthly Design Lead and Design Technician resource requirements.
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,aws,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,aws,git,github,vscode"/>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/openai" width="42" alt="OpenAI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic" width="42" alt="Anthropic"/>
+</p>
 
+<p align="center">
+  ChatGPT &nbsp;•&nbsp; Codex &nbsp;•&nbsp; Claude &nbsp;•&nbsp; Claude Code
 </p>
 Experience
 Digital Lead — Holden Installations
