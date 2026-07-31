@@ -1,10 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                        HEADER                            -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0d1117,40:001f2e,100:00E7FF&height=220&section=header&text=Olan%20Griffin&fontSize=78&fontColor=ffffff&fontAlignY=50&desc=Backend%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder&descAlignY=70&descSize=20&descColor=00E7FF&animation=fadeIn"/>
-
-<br/>
+<img src="./ascii.svg" width="560" alt="ASCII portrait of Olan Griffin">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=00E7FF&center=true&vCenter=true&width=750&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+pgvector+%E2%80%A2+HTMX;Building+Echo+%E2%80%94+Intelligent+IT+Ticketing+%F0%9F%9A%80;Scalable+systems+%2B+real-world+AI+integration;Final+year+%40+UCC+%F0%9F%8E%93+%7C+Cork%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA;If+it+scales+and+solves+a+real+problem+%E2%80%94+build+it." />
