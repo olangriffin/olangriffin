@@ -71,11 +71,11 @@ Design Workforce Planner
 
 Capacity-planning tool that converts project workload into monthly Design Lead and Design Technician resource requirements.
 
-Technology
-Python        FastAPI       PostgreSQL       SQLAlchemy
-JavaScript    HTML          CSS              Tailwind CSS
-pgvector      Docker        Git              GitHub Actions
-Linux         AWS           Nginx            monday.com
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,aws,git,github,vscode"/>
+
+</p>
 Experience
 Digital Lead — Holden Installations
 Lead digital transformation and workflow improvement
