@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./ascii.svg" width="560" alt="ASCII portrait of Olan Griffin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=00E7FF&center=true&vCenter=true&width=750&lines=FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+pgvector+%E2%80%A2+HTMX;Building+Echo+%E2%80%94+Intelligent+IT+Ticketing+%F0%9F%9A%80;Scalable+systems+%2B+real-world+AI+integration;Final+year+%40+UCC+%F0%9F%8E%93+%7C+Cork%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA;If+it+scales+and+solves+a+real+problem+%E2%80%94+build+it." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=00E7FF&center=true&vCenter=true&width=750&lines=Digital+Lead+%E2%80%A2+Software+Developer+%E2%80%A2+AI+Systems+Builder;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+pgvector+%E2%80%A2+Python;Building+practical+systems+for+real+operational+problems;First+Class+Honours+in+Business+Information+Systems;Cork%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing introduction"/>
 </p>
 
 <p align="center">
