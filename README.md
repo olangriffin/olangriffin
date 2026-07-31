@@ -136,7 +136,6 @@ ambition:  Tech founder. Global scale. Real impact.
 <!--                      RIGHT NOW                           -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=2"/>
 
 <h2 align="center">⚡ &nbsp;Right Now</h2>
 
